@@ -1,0 +1,3 @@
+command one : cd ~
+command two: pwd
+command three : /Users/bhavanikuppagiri/mongodb/bin/mongod --dbpath=/Users/bhavanikuppagiri/mongodb-data
